@@ -53,7 +53,7 @@ If enabled, you can begin interacting with the extension once you open Youtube (
 6. Complete the Google Form after finishing the study.
 
 Please use YouTube as you normally would. Honest usage is far more valuable to this research than achieving a high alignment score.
-Some tips: pressing the space bar if a video is playing during a popup pauses the video/advertisement. Pressing "trigger reflection" (which can be found at the bottom of the debug panel) allows you to change intent mode and end session (though if you forget, you will be met with a "Welcome Back" screen as a backup for the end session feature).
+Some tips: pressing the space bar if a video is playing during a popup pauses the video/advertisement. Pressing "trigger reflection" (which can be found at the bottom of the debug panel) allows you to change intent mode and end session (though if you forget, you will be met with a "Welcome Back" screen as a backup for the end session feature). Yes the reflection interval popup that appears early on in the session is intentional (it helps stop impulsively opening Youtube)
 Settings button is found on the bottom left portion of the screen. To view your dashboard, open the Intentional Youtube Settings menu and at the bottom of the default screen, you can find a "View Dashboard" button.
 
 Forms:
