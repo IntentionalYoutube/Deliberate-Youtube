@@ -2,6 +2,9 @@
 
 I want to help people avoid getting pulled into YouTube's recommendation algorithm. I don't think there's anything wrong with entertainment. In fact, YouTube is an incredible platform for learning and fun. However, I personally find its recommendation algorithm addictive to the point where it's easy to lose track of time and forget why I opened YouTube in the first place.
 
+FOR THE FORMS:
+EMAIL IS NOT COLLECTED TO PROTECT ANONYMITY
+
 The goal of this project is to see whether intention-aware interventions can help people stay aligned with the reason they opened YouTube in the first place.
 
 Deliberate YouTube is an intention-aware Chrome extension designed to help users become more mindful of how they use YouTube.
@@ -15,6 +18,9 @@ Some downloads extract into:
 
 Deliberate-Youtube-main/
     Deliberate-Youtube-main/
+
+(Basically, some downloads create a nested folder:
+Deliberate-Youtube-main/Deliberate-Youtube-main/)
 
 Open the **inner** folder before selecting it in `chrome://extensions`.
 
@@ -42,7 +48,7 @@ If enabled, you can begin interacting with the extension once you open Youtube (
 1. Install the extension.
 2. Before each session, choose the intent that best matches why you're opening YouTube.
 3. Use YouTube naturally.
-4. Don't intentionally try to maximize or minimize your alignment score.
+4. Don't intentionally try to maximize or minimize your alignment score (higher rating is considered better and a more mindful usage of YouTube).
 5. Use the extension over multiple sessions.
 6. Complete the Google Form after finishing the study.
 
@@ -53,5 +59,5 @@ Settings button is found on the bottom left portion of the screen. To view your 
 Forms:
 Bug report (only if you found bugs):
 [Bug Report Form](https://docs.google.com/forms/d/e/1FAIpQLSfN42RuoafJZqCXs-4QuxVq6VQ3L1DH0Dht7Rk6UXVXJlGR7w/viewform?usp=dialog)
-Main form (PLEASE complete if you tested it, EMAIL IS NOT COLLECTED TO PROTECT ANONYMITY):
+Main form (PLEASE complete if you tested it, ONCE AGAIN, EMAIL IS NOT COLLECTED FOR EITHER FORMS TO PROTECT ANONYMITY):
 [Main Form](https://docs.google.com/forms/d/e/1FAIpQLScDIVFXXPiU77elzQ1Ugdti12gEryWSRmaSnx077aCEW9TZrQ/viewform?usp=dialog)
