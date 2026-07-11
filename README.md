@@ -18,9 +18,8 @@ Deliberate-Youtube-main/
 
 Open the **inner** folder before selecting it in `chrome://extensions`.
 
-The correct folder contains files such as:
+The correct folder contains folders such as:
 
-- `manifest.json`
 - `path`
 - `tests`
 
