@@ -55,4 +55,4 @@ Forms:
 Bug report (only if you found bugs):
 [Bug Report Form](https://docs.google.com/forms/d/e/1FAIpQLSfN42RuoafJZqCXs-4QuxVq6VQ3L1DH0Dht7Rk6UXVXJlGR7w/viewform?usp=dialog)
 Main form (PLEASE complete if you tested it, EMAIL IS NOT COLLECTED TO PROTECT ANONYMITY):
-[Bug Report Form](https://docs.google.com/forms/d/e/1FAIpQLScDIVFXXPiU77elzQ1Ugdti12gEryWSRmaSnx077aCEW9TZrQ/viewform?usp=dialog)
+[Main Form](https://docs.google.com/forms/d/e/1FAIpQLScDIVFXXPiU77elzQ1Ugdti12gEryWSRmaSnx077aCEW9TZrQ/viewform?usp=dialog)
