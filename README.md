@@ -1,6 +1,8 @@
 # Deliberate YouTube
 
-<img width="260" height="129" alt="awgz8n" src="https://github.com/user-attachments/assets/b39f0087-db51-4174-9209-6e446f797ebe" />
+
+https://github.com/user-attachments/assets/8d2b6ed6-e4ba-446c-808d-464e2372046e
+
 
 I want to help people avoid getting pulled into YouTube's recommendation algorithm. I don't think there's anything wrong with entertainment. In fact, YouTube is an incredible platform for learning and fun. However, I personally find its recommendation algorithm addictive to the point where it's easy to lose track of time and forget why I opened YouTube in the first place.
 
