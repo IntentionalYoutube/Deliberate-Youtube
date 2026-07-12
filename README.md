@@ -61,3 +61,9 @@ Bug report (only if you found bugs):
 [Bug Report Form](https://docs.google.com/forms/d/e/1FAIpQLSfN42RuoafJZqCXs-4QuxVq6VQ3L1DH0Dht7Rk6UXVXJlGR7w/viewform?usp=dialog)
 Main form (PLEASE complete if you tested it, ONCE AGAIN, EMAIL IS NOT COLLECTED FOR EITHER FORMS TO PROTECT ANONYMITY):
 [Main Form](https://docs.google.com/forms/d/e/1FAIpQLScDIVFXXPiU77elzQ1Ugdti12gEryWSRmaSnx077aCEW9TZrQ/viewform?usp=dialog)
+
+SOME of the extension's features:
+<img width="527" height="837" alt="deliberateyoutube1" src="https://github.com/user-attachments/assets/15ce6701-36ac-404d-bab7-ef44f81981ea" />
+<img width="731" height="426" alt="deliberateyoutube2" src="https://github.com/user-attachments/assets/979a976b-e82e-455f-afe5-5ebcb3934e46" />
+
+
