@@ -1,5 +1,14 @@
 # Deliberate YouTube
+BRIEF usage guide:
+Set your intention before you watch Pick why you’re on YouTube right now; find something specific, learn, explore, or just relax. You can even write a quick goal, like “find a 10-minute cooking tutorial.”
 
+See if you’re staying on track A little score shows whether your behavior matches your intention. Search and watch one video? Nice. Fall into an algorithm loop to incessantly look for distractions (such as a series of sidebar recommendations)? It drifts down and the consequences linger.
+
+Get gentle check-ins If you start drifting (And on a timer  you can customize), the extension can pause the video and implore you to reflect on your decisions. It also checks in at the end of your session.
+
+Cut down the distractions You can blur thumbnails, hide Shorts, hide recommendations, and stop autoplay. Your choice.
+
+Look back at your habits via a simple dashboard (IN SETTINGS) that shows how often you watch, what intentions you pick, and whether you usually feel good about it afterward.
 
 https://github.com/user-attachments/assets/8d2b6ed6-e4ba-446c-808d-464e2372046e
 
