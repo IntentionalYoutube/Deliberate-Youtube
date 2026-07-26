@@ -1,3 +1,5 @@
+<img width="1280" height="720" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/73033c22-f79e-4c8d-9ee9-cf4fa0d3439c" />
+
 # Deliberate YouTube (also on Chrome Web Store, which has a full demo YouTube video)
 BRIEF usage guide:
 Set your intention before you watch Pick why you’re on YouTube right now; find something specific, learn, explore, or just relax. You can even write a quick goal, like “find a 10-minute cooking tutorial.”
