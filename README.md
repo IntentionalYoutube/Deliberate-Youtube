@@ -1,4 +1,4 @@
-# Deliberate YouTube
+# Deliberate YouTube (also on Chrome Web Store, which has a full demo YouTube video)
 BRIEF usage guide:
 Set your intention before you watch Pick why you’re on YouTube right now; find something specific, learn, explore, or just relax. You can even write a quick goal, like “find a 10-minute cooking tutorial.”
 
@@ -21,7 +21,6 @@ EMAIL IS NOT COLLECTED TO PROTECT ANONYMITY
 The goal of this project is to see whether intention-aware interventions can help people stay aligned with the reason they opened YouTube in the first place.
 
 Deliberate YouTube is an intention-aware Chrome extension designed to help users become more mindful of how they use YouTube.
-This extension is currently being evaluated as part of an independent Human–Computer Interaction (HCI) research study.
 
 ## Installation
 
@@ -65,8 +64,7 @@ If enabled, you can begin interacting with the extension once you open Youtube (
 5. Use the extension over multiple sessions.
 6. Complete the Google Form after finishing the study.
 
-Please use YouTube as you normally would. Honest usage is far more valuable to this research than achieving a high alignment score.
-Some tips: pressing the space bar if a video is playing during a popup pauses the video/advertisement. Pressing "trigger reflection" (which can be found at the bottom of the debug panel) allows you to change intent mode and end session (though if you forget, you will be met with a "Welcome Back" screen as a backup for the end session feature). Yes the reflection interval popup that appears early on in the session is intentional (it helps stop impulsively opening Youtube)
+Some tips and potentially useful information: pressing the space bar if a video is playing during a popup pauses the video/advertisement. Pressing "trigger reflection" (which can be found at the bottom of the debug panel) allows you to change intent mode and end session (though if you forget, you will be met with a "Welcome Back" screen as a backup for the end session feature). Yes the reflection interval popup that appears early on in the session is intentional (it helps stop impulsively opening Youtube)
 Settings button is found on the bottom left portion of the screen. To view your dashboard, open the Intentional Youtube Settings menu and at the bottom of the default screen, you can find a "View Dashboard" button.
 
 Forms:
