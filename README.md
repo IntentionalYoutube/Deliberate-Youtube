@@ -1,3 +1,5 @@
+RECOMMENDED/EASY DOWNLOAD IS IN CHROME WEB STORE
+
 Stay in control of your YouTube experience.
 <img width="1280" height="720" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/73033c22-f79e-4c8d-9ee9-cf4fa0d3439c" />
 
